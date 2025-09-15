@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aradhana Mote</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Passionate about Generative AI, Data Analysis, and Business Analysis | Python & C++ Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Passionate about Generative AI, Data Analytics, and Business Analytics | Python & C++ Enthusiast</h3>
 
 ---
 
