@@ -12,8 +12,8 @@
 ---
 
 🚀 **Favorite Project**
-- **[Poem Generator using Fine-Tuned GPT-2](https://github.com/AradhanaMote/PoemGenerator-Using-Fine-Tuned-GPT2):**
-  - Built with Streamlit and a fine-tuned GPT-2 model, this project generates unique poems and showcases the creative side of AI.
+- **[Rag-Based Test Case Generator](https://github.com/AradhanaMote/RAG-Test-Case-Generator):**
+  - Implemented AI-powered Selenium script generation, achieving 90%+ selector accuracy, enabling end-to-end automated web testing.
   - *Check it out and let me know your favorite poem!*
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 📄 **Resume**
-> [View My Resume (PDF)](https://github.com/AradhanaMote/Resume/blob/main/Intern2_Resume_ADM.pdf)
+> [View My Resume (PDF)](https://github.com/AradhanaMote/Resume/blob/main/AradhanaMote_VITBhopal_22BCE10227-2.pdf)
 
 ---
 
