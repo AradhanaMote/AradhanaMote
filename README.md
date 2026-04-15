@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aradhana Mote</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Passionate about Generative AI, Data Analytics, and Business Analytics | Python & C++ Enthusiast</h3>
+<h3 align="center">Final Year B.Tech Student | Vellore Institute of Technology, Bhopal | Backend Developer at Calypsion Innovations LLP</h3>
 
 ---
 
 🌟 **About Me**
-- 🎓 I’m a student deeply passionate about AI/ML and how machines can interact and think in human-like ways.
-- 🤖 Currently learning Data Science with Python – loving every moment of exploring data and building intelligent systems!
-- 💡 My main programming language is **C++**, but I’m flexible and always ready to adapt and learn new technologies (Python is my new playground).
-- 💻 I’m fascinated by how technology can be used to create human-centric solutions, and I aim to contribute to innovations that push boundaries.
+- 🚀 Currently working as a **Backend Developer** at **Calypsion Innovations LLP** – building scalable APIs and powering startup growth from the inside out.
+- 🔧 My tech stack revolves around **Python** and **Flask** – I love crafting clean backend architectures that make applications truly tick.
+- 🧠 Passionate about how systems are built under the hood – from request routing to database design, I dig deep into every layer.
+- 🌱 Always exploring new backend paradigms and optimizations – because great products are built on great foundations.
 
 ---
 
